@@ -1,0 +1,18 @@
+{
+  "name": "browser-agent-form-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node form-agent.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^2.22.0",
+    "@testmuai/browser-cloud": "^1.0.1",
+    "dotenv": "^16.0.0"
+  }
+}
